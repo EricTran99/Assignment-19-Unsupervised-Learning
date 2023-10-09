@@ -24,4 +24,8 @@ the results shows at the bottom.
 2. the pca cluster plot </br>
 ![image](https://github.com/Nisloen/Assignment-19-Unsupervised-Learning/assets/134130254/d52c1b80-ed2f-42a2-93bf-f5aefeb79465)
 
-As the two cluster results shows, there is a significant impact.
+As the two cluster results shows, there is a significant impact. for the first cluster plot, there is one data where it is identified as a seperate cluster eventhough
+it is within the group, and it also shows two seperate cluster group despite between close to each other. Compared to the pca cluster plot, where despite showing single
+seperate cluster data, at least the cluster group is accurate.
+
+In the jupyter notebook, there are various questions that have been answered.
